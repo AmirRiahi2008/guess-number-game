@@ -57,19 +57,11 @@ The app is built using **JavaScript**, **HTML**, and **CSS**, and is designed wi
 
 ---
 
-## Screenshots
-
-![Guess Number - Start](./screenshots/start.png)
-![Guess Number - Wrong Guess](./screenshots/wrong-guess.png)
-![Guess Number - Victory](./screenshots/success.png)
-
----
-
 ## Live Demo
 
 Play the live version here:  
-🔗 [Live Demo on Netlify]([https://your-netlify-link.com](https://guess-number-game-javascript.netlify.app/))  
-🔗 [Live Demo on Vercel]([https://your-vercel-link.com](https://guess-number-game-1.vercel.app/))
+🔗 [Live Demo on Netlify](https://guess-number-game-javascript.netlify.app/)
+🔗 [Live Demo on Vercel](https://guess-number-game-1.vercel.app/)
 
 ## Installation
 
