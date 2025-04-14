@@ -60,7 +60,7 @@ The app is built using **JavaScript**, **HTML**, and **CSS**, and is designed wi
 ## Live Demo
 
 Play the live version here:  
-🔗 [Live Demo on Netlify](https://guess-number-game-javascript.netlify.app/)
+🔗 [Live Demo on Netlify](https://guess-number-game-javascript.netlify.app/) <br>
 🔗 [Live Demo on Vercel](https://guess-number-game-1.vercel.app/)
 
 ## Installation
