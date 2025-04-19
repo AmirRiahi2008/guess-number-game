@@ -1,5 +1,4 @@
 "use strict";
-
 const againButton = document.querySelector(".again");
 const checkButton = document.querySelector(".check");
 const number = document.querySelector(".number");
@@ -66,3 +65,4 @@ againButton.addEventListener("click", () => {
   console.clear();
   console.log(`Secret Number: ${random} 🤫`);
 });
+
